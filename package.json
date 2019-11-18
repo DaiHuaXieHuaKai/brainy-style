@@ -1,0 +1,24 @@
+{
+  "name": "briany-style",
+  "version": "1.0.0",
+  "description": "basic layout style with flex spacing align ellipsis etc.",
+  "main": "brainystyle.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaiHuaXieHuaKai/brainy-style.git"
+  },
+  "keywords": [
+    "style",
+    "flex",
+    "spacing"
+  ],
+  "author": "Brainy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaiHuaXieHuaKai/brainy-style/issues"
+  },
+  "homepage": "https://github.com/DaiHuaXieHuaKai/brainy-style#readme"
+}
