@@ -1,6 +1,6 @@
 {
   "name": "briany-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "basic layout style with flex spacing align ellipsis etc.",
   "main": "brainystyle.css",
   "scripts": {
